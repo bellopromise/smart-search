@@ -13,7 +13,7 @@ Ensure you have the following installed:
 - Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/smart-search.git
+git clone https://github.com/bellopromise/smart-search.git
 cd smart-search
 ```
 
@@ -86,3 +86,6 @@ To enhance the functionality of the smart search algorithm, consider the followi
 
 ### Summary
 This project sets up a Node.js application with Sequelize for managing database interactions. It includes creating models and migrations, reading data from Excel files, seeding the database, and implementing a smart search algorithm. Follow the instructions in this README.md file to set up and run the project.
+
+### Enquiries
+For further enquiries, please you can reach out to `bellopromise5322@gmail.com`
