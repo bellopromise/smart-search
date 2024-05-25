@@ -59,8 +59,6 @@ typings/
 # dotenv environment variables file
 .env
 
-# sequelize config and migrations
-config/config.json
 
 # Ignore IntelliJ IDEA project files
 .idea/

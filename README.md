@@ -80,7 +80,6 @@ Query Parameter: searchTerm
 ### Improving the Algorithm
 To enhance the functionality of the smart search algorithm, consider the following improvements:
 
-- Implement advanced natural language processing (NLP) techniques.
 - Utilize caching for frequently searched terms to improve performance.
 - Optimize database queries to handle large datasets efficiently.
 
